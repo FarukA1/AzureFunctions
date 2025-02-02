@@ -1,0 +1,9 @@
+﻿{
+  "profiles": {
+    "AzureFunctions.Blob": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7183",
+      "launchBrowser": false
+    }
+  }
+}
