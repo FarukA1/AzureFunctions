@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1706.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFunctions.Blob", "AzureFunctions.Blob\AzureFunctions.Blob.csproj", "{9176BFF0-5AE1-4112-B10F-E9610E232448}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFunctions.Common", "AzureFunctions.Common\AzureFunctions.Common.csproj", "{D2711BB1-034C-491C-AD83-5CB99E002AAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9176BFF0-5AE1-4112-B10F-E9610E232448}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9176BFF0-5AE1-4112-B10F-E9610E232448}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9176BFF0-5AE1-4112-B10F-E9610E232448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2711BB1-034C-491C-AD83-5CB99E002AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2711BB1-034C-491C-AD83-5CB99E002AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2711BB1-034C-491C-AD83-5CB99E002AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2711BB1-034C-491C-AD83-5CB99E002AAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

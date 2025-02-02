@@ -1,0 +1,12 @@
+/Users/farukawofeso/Projects/AzureFunctions/AzureFunctions.Common/bin/Debug/net6.0/AzureFunctions.Common.deps.json
+/Users/farukawofeso/Projects/AzureFunctions/AzureFunctions.Common/bin/Debug/net6.0/AzureFunctions.Common.dll
+/Users/farukawofeso/Projects/AzureFunctions/AzureFunctions.Common/bin/Debug/net6.0/AzureFunctions.Common.pdb
+/Users/farukawofeso/Projects/AzureFunctions/AzureFunctions.Common/obj/Debug/net6.0/AzureFunctions.Common.csproj.AssemblyReference.cache
+/Users/farukawofeso/Projects/AzureFunctions/AzureFunctions.Common/obj/Debug/net6.0/AzureFunctions.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/farukawofeso/Projects/AzureFunctions/AzureFunctions.Common/obj/Debug/net6.0/AzureFunctions.Common.AssemblyInfoInputs.cache
+/Users/farukawofeso/Projects/AzureFunctions/AzureFunctions.Common/obj/Debug/net6.0/AzureFunctions.Common.AssemblyInfo.cs
+/Users/farukawofeso/Projects/AzureFunctions/AzureFunctions.Common/obj/Debug/net6.0/AzureFunctions.Common.csproj.CoreCompileInputs.cache
+/Users/farukawofeso/Projects/AzureFunctions/AzureFunctions.Common/obj/Debug/net6.0/AzureFunctions.Common.dll
+/Users/farukawofeso/Projects/AzureFunctions/AzureFunctions.Common/obj/Debug/net6.0/refint/AzureFunctions.Common.dll
+/Users/farukawofeso/Projects/AzureFunctions/AzureFunctions.Common/obj/Debug/net6.0/AzureFunctions.Common.pdb
+/Users/farukawofeso/Projects/AzureFunctions/AzureFunctions.Common/obj/Debug/net6.0/ref/AzureFunctions.Common.dll

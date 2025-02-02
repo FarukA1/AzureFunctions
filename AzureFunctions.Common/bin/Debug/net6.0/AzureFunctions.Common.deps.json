@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AzureFunctions.Common/1.0.0": {
+        "runtime": {
+          "AzureFunctions.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AzureFunctions.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
